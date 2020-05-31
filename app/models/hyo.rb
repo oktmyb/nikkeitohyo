@@ -1,0 +1,2 @@
+class Hyo < ApplicationRecord
+end
